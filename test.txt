@@ -1,2 +1,3 @@
 test text
 updated line
+this text has been added to the test branch
