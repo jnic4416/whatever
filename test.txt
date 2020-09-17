@@ -1,3 +1,4 @@
 test text this change was made in the master branch
 updated line
 this text has been added to the test branch
+this change was made in test branch 2
